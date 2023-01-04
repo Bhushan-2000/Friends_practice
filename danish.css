@@ -1,0 +1,31 @@
+.main{
+    
+    border: 1 solid;
+    font-size: 40px;
+
+}
+.backgroundimage{
+    background-image: url(naturelove.jpg);
+    
+    height: 300px;
+    width: 400px;
+
+
+}
+.zindx{
+    position: absolute;
+    z-index: -1;
+    color: red;
+    top: 40px;
+    left: 40px;
+    
+
+}
+.bhushan{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+
+
+
+}
