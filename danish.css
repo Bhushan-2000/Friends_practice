@@ -5,10 +5,11 @@
 
 }
 .backgroundimage{
-    background-image: url(naturelove.jpg);
+    background-image: url(naturee.webp);
     
-    height: 300px;
-    width: 400px;
+    height: 400px;
+    width: 600px;
+    background-repeat: no-repeat;
 
 
 }
@@ -16,16 +17,15 @@
     position: absolute;
     z-index: -1;
     color: red;
-    top: 40px;
-    left: 40px;
+    top: 400px;
+    left: 400px;
     
 
 }
 .bhushan{
     position: absolute;
-    top: 40px;
-    left: 40px;
-
-
+    top: 50px;
+    left: 50px;
+    font-size: 20px;
 
 }
