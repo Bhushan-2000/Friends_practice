@@ -7,15 +7,16 @@
 .backgroundimage{
     background-image: url(naturee.webp);
     
-    height: 350px;
-    width: 600px;
+    height: 2000px;
+    width: 2000px;
     background-repeat: no-repeat;
+    background-size: 1000px 1000px;
 
 
 }
 .zindx{
     position: absolute;
-    z-index: -1;
+    z-index: 1;
     color: red;
     top: 400px;
     left: 400px;
