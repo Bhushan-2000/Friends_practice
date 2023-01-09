@@ -7,8 +7,8 @@
 .backgroundimage{
     background-image: url(naturee.webp);
     
-    height: 2000px;
-    width: 2000px;
+    height: 600px;
+    width: 1000px;
     background-repeat: no-repeat;
     background-size: 1000px 1000px;
 
@@ -18,8 +18,10 @@
     position: absolute;
     z-index: 1;
     color: red;
-    top: 400px;
+    top: 800px;
     left: 400px;
+
+    
     
 
 }
@@ -28,5 +30,30 @@
     top: 50px;
     left: 50px;
     font-size: 20px;
+
+}
+
+.stick{
+    position: sticky;
+    top: 0px;
+    border: 1px solid;
+    background-color: brown;
+}
+
+.fixx{
+    position: fixed;
+    bottom: 0px;
+    left: 50px;
+    border: 1px solid;
+    background-color: yellow;
+    color: black;
+}
+
+.rellative{
+    position: relative;
+    border: 1px solid;
+    background-color: red;
+    color: white;
+    top: 20px;
 
 }
